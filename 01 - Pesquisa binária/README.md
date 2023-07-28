@@ -1,0 +1,2 @@
+## Pesquisa Binária
+
